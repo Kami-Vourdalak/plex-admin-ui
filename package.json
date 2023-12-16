@@ -10,6 +10,7 @@
     "lint": "eslint --ext .ts,.js,.vue src"
   },
   "dependencies": {
+    "@vueuse/core": "^10.7.0",
     "date-fns": "^2.30.0",
     "vue": "^3.3.8",
     "vue-i18n": "^9.8.0",

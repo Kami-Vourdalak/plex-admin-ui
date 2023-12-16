@@ -1,7 +1,7 @@
 export const es = {
   userList: {
     name: "Nombre",
-    memberFrom: "Member desde",
+    memberFrom: "Fecha registro",
     expirationDate: "Caduca",
     libraries: "Bibliotecas",
     manage: "Admin",
