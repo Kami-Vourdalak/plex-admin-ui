@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import UsersList from "@/components/UsersList.vue";
-import { useFetch } from "vue-use";
 
-useFetch()
 </script>
 <template>
   <h1 className="text-3xl font-bold underline">Hello world!</h1>
